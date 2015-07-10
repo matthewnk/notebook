@@ -1,0 +1,29 @@
+ul{
+  margin-top: -1rem;
+}
+
+article {
+  background-color: ivory;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 2rem;
+  margin-left: 15%;
+  padding: 1rem;
+  width: 20rem;
+}
+
+.redText {
+  color: tomato;
+}
+
+.blueText {
+  color: darkCyan;
+}
+
+.greenText {
+  color: yellowGreen;
+}
+
+footer {
+  background-color: #eee;
+}
